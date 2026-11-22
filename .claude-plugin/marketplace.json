@@ -1,0 +1,14 @@
+{
+  "name": "neptunenakub",
+  "description": "Claude Code plugins by neptunenakub",
+  "owner": {
+    "name": "neptunenakub"
+  },
+  "plugins": [
+    {
+      "name": "manager-mode",
+      "source": "./",
+      "description": "Runs big or risky tasks like a manager: agree on what done means, split the work, prove the result, and report what is still unverified."
+    }
+  ]
+}

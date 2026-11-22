@@ -1,0 +1,12 @@
+{
+  "name": "manager-mode",
+  "description": "Runs big or risky tasks like a manager: agree on what done means, split the work, prove the result, and report what is still unverified.",
+  "author": {
+    "name": "neptunenakub",
+    "url": "https://github.com/neptunenakub"
+  },
+  "homepage": "https://github.com/neptunenakub/manager-mode",
+  "repository": "https://github.com/neptunenakub/manager-mode",
+  "license": "MIT",
+  "keywords": ["skill", "planning", "verification", "subagents"]
+}
